@@ -6,23 +6,27 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
 
 ---
 
-## 🚀 Skills & Technologies  
+## 🚀 Skills & Technologies
 
-### 🌐 Frontend Development  
-- **Languages:** HTML, CSS, JavaScript  
-- **Libraries & Frameworks:** React, Responsive Web Design  
+### ☁️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚙️ Backend Development  
-- **Technologies:** Node.js, Express.js  
-- **Authentication:** JWT, Bcrypt  
+### 🌐 Full Stack Development (MERN)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🛠️ Databases  
-- **Database Management:** MongoDB  
-
-### 📜 Other Expertise  
-- API Integration  
-- RESTful API Development  
-- Secure Authentication and Authorization  
+### 🛠️ Specialized Expertise
+* **Security & Auth:** JSON Web Tokens (JWT), Bcrypt, SSH Hardening
+* **Backend Architecture:** RESTful API Design, Microservices, Middleware Development
+* **Web Design:** HTML5, CSS3, Responsive Design, Frontend Optimization
 
 ---
 
