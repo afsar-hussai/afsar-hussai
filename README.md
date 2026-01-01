@@ -58,19 +58,6 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
 ---
 
 
-## 📊 My GitHub Metrics
-
-
-## 📊 My GitHub Metrics
-
-![Afsar's Stats](https://github-readme-stats.vercel.app/api?username=afsar-hussai&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsar-hussai&layout=compact&theme=radical&border_radius=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afsar-hussai&theme=radical&border_radius=10)
-
-
-
 ### 📈 Activity Radar
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsar-hussai&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
