@@ -57,6 +57,26 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
 
 ---
 
+
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afsar-hussai&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Afsar's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsar-hussai&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afsar-hussai&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
+
+
+### 📈 Activity Radar
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsar-hussai&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
 ## 📬 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohdafsarhussain)   
 - 📧 Email: afsarhussain2200@gmail.com  
