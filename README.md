@@ -2,6 +2,8 @@
 
 Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer** who loves building scalable, secure, and responsive web applications. My expertise lies in creating efficient backend systems, interactive frontend designs, and seamless user experiences.  
 
+![Current Focus](https://img.shields.io/badge/Learning-DevOps%20%26%20Kubernetes-blueviolet?style=for-the-badge)
+
 ---
 
 ## 🚀 Skills & Technologies  
