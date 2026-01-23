@@ -71,7 +71,8 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
 ## 📬 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohdafsarhussain)
 - 𝕏 [X](https://x.com/AFSARHU97849211)  
-- 📧 Email: afsarhussain2200@gmail.com  
+- 📧 Email: afsarhussain2200@gmail.com
+- 🧑‍🏫[Portfolio](https://asset-manager--AFSARHUSSAIN4.replit.app)
 
 ---
 
