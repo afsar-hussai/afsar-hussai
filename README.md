@@ -66,12 +66,6 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsar-hussai&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
----
-
-### Activity Graph
-
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=afsar-hussai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
