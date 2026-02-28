@@ -71,7 +71,7 @@ Hi there! 👋 I'm Mohd Afsar Hussain, a passionate **Full Stack Web Developer**
 ### Activity Graph
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afsar-hussai&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=afsar-hussai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
